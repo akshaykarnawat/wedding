@@ -870,12 +870,12 @@ body {
 }
 
 /* Map */
-.map {
+.map center {
     height: 450px;
 }
 
 @media(max-width:768px) {
-    .map {
+    .map center {
         height: 90%;
     }
 }
