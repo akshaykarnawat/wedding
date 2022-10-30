@@ -902,21 +902,21 @@ body {
 
 @media(max-width:414px) {
     #rsvp-frame {
-        width: 380px;
+        width: 370px;
         height: 1029px;
     }
 }
 
 @media(max-width:375px) {
     #rsvp-frame {
-        width: 340px;
-        height: 1029px;
+        width: 320px;
+        height: 1059px;
     }
 }
 
 @media(max-width:320px) {
     #rsvp-frame {
-        width: 300px;
-        height: 1059px;
+        width: 280px;
+        height: 1089px;
     }
 }
