@@ -281,9 +281,9 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-    font-style: italic;
+    font-family: "Pacifico","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    /* font-style: italic; */
     line-height: 22px;
 }
 
@@ -304,9 +304,9 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
-        font-style: italic;
+        font-family: "Pacifico","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 48px;
+        /* font-style: italic; */
         line-height: 40px;
     }
 
@@ -890,6 +890,13 @@ body {
     #rsvp-frame {
         width: 520px;
         height: 1053px;
+    }
+}
+
+@media(max-width:550px) {
+    #rsvp-frame {
+        width: 400px;
+        height: 1063px;
     }
 }
 
