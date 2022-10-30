@@ -883,7 +883,7 @@ body {
 /* RSVP Frame */
 #rsvp-frame { 
     width: 588px; 
-    height: 1033px;
+    height: 1038px;
 }
 
 @media(max-width:768px) {
