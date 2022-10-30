@@ -883,40 +883,40 @@ body {
 /* RSVP Frame */
 #rsvp-frame { 
     width: 588px; 
-    height: 1038px;
+    height: 1018px;
 }
 
 @media(max-width:768px) {
     #rsvp-frame {
         width: 520px;
-        height: 1053px;
+        height: 1018px;
     }
 }
 
 @media(max-width:550px) {
     #rsvp-frame {
         width: 400px;
-        height: 1063px;
+        height: 1018px;
     }
 }
 
 @media(max-width:414px) {
     #rsvp-frame {
         width: 380px;
-        height: 1073px;
+        height: 1029px;
     }
 }
 
 @media(max-width:375px) {
     #rsvp-frame {
         width: 340px;
-        height: 1073px;
+        height: 1029px;
     }
 }
 
 @media(max-width:320px) {
     #rsvp-frame {
         width: 300px;
-        height: 1099px;
+        height: 1059px;
     }
 }
