@@ -302,6 +302,13 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-heading mark {
+    background-color: #F56733;
+    color: white;
+    border-radius: 3px;
+    opacity: 0.8;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -325,6 +332,13 @@ header .intro-text .intro-heading {
         font-size: 20px;
         font-weight: 500;
         line-height: 75px;
+    }
+
+    header .intro-text .intro-heading mark {
+        background-color: #F56733;
+        color: white;
+        border-radius: 3px;
+        opacity: 0.8;
     }
 }
 
